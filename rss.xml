@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Escalation]]></title>
+        <description><![CDATA[Escalation]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 03:27:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The science-or lack off- science concerning dreams make it very hard to take a definitive stance on it; However over the past two years and the people I had the pleasure of helping, I would say that there is a peculiar and malign intensity to dreams. Whether they are pleasurable dreams of nightmares, I found that they often relate to present concerns, good or bad. In some way I would say it gives us an ephemeral access to our subconscious. At least to the people willing to give the time to remember them or sleep well enough to experience them</p>]]></description>
+            <link>undefinedce3ae759-85db-4ca5-8438-facfbba519a3/index.html</link>
+            <guid isPermaLink="false">ce3ae759-85db-4ca5-8438-facfbba519a3</guid>
+            <pubDate>Fri, 04 Mar 2016 03:26:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
